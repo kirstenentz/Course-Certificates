@@ -9,3 +9,4 @@ The purpose of this repository is to store my Linkedin Learning Certificates for
 3. [NumPy Data Science Essential Training](https://github.com/kirstenentz/Course-Certificates/blob/main/Uploads/CertificateOfCompletion_NumPy%20Data%20Science%20Essential%20Training.pdf)
 4. [Programming Foundations: Version Control with Git](https://github.com/kirstenentz/Course-Certificates/blob/main/Uploads/CertificateOfCompletion_Programming%20Foundations%20Version%20Control%20with%20Git.pdf)
 5. [Python Exercises from W3Schools](https://github.com/kirstenentz/Course-Certificates/blob/main/Uploads/Python%20Exercises.pdf)
+6. [Python Quiz from W3Schools](https://github.com/kirstenentz/Course-Certificates/blob/main/Uploads/W3Schools%20Python%20Quiz.pdf)
